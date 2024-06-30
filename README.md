@@ -1,5 +1,6 @@
 # Python Compiler For CutePy
 This project is implemented by the undergraduate students: -Vasileios Ioannis Bouzampalidis, -Alexandros Agapitos Christodoulou
+For the Compilers course MYY802 of the Undergraduate Program in Computer Science And Engineering course of the University of Ioannina.
 
 ## Main Objective:
 This project is aimed at creating a custom compiler for the custom-made CutePy programming language with unique grammar rules and syntax. The main goal of this project is to translate CutePy code into an assembly executable file, enabling it to run on RISC-V architecture. Using the techniques shown below, it facilitates the execution and debugging of CutePy programs by providing a reliable and efficient compilation process.
