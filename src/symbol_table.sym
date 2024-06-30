@@ -1,0 +1,7 @@
+
+ (0) counterFunctionCalls integer 12 | max3 |  (1) x integer cv 12 | y integer cv 16 | z integer cv 20 | m integer 24 | T$0 integer 28 | 
+ (0) counterFunctionCalls integer 12 | max3 | isPrime |  (1) x integer cv 12 | i integer 16 | divides |  (2) y integer cv 12 | T$1 integer 16 | T$2 integer 20 | T$3 integer 24 | 
+ (0) counterFunctionCalls integer 12 | max3 | isPrime |  (1) x integer cv 12 | i integer 16 | divides | T$4 integer 20 | T$5 integer 24 | T$6 integer 28 | 
+ (0) counterFunctionCalls integer 12 | max3 | isPrime | quad |  (1) x integer cv 12 | y integer 16 | sqr |  (2) T$7 integer 12 | T$8 integer 16 | T$9 integer 20 | 
+ (0) counterFunctionCalls integer 12 | max3 | isPrime | quad |  (1) x integer cv 12 | y integer 16 | sqr | T$10 integer 20 | T$11 integer 24 | T$12 integer 28 | T$13 integer 32 | 
+ (0) counterFunctionCalls integer 12 | max3 | isPrime | quad | i integer 16 | T$14 integer 20 | T$15 integer 24 | T$16 integer 28 | T$17 integer 32 | 
