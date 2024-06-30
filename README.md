@@ -16,3 +16,4 @@ This is a project aimed at creating a custom compiler for the custom made CutePy
 
 ## To Run the Program:
 python cutePy_4744_4839.py your_source_file.cpy 
+Or use an existing test provided in the folder src/tests.
